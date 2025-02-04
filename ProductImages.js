@@ -1,5 +1,4 @@
-javascript
-CopyEdit
+
 import React, { useState } from 'react';
 
 const ProductImages = ({ images }) => {
