@@ -1,5 +1,4 @@
-javascript
-CopyEdit
+
 import React, { useState } from 'react';
 import ProductOptions from './ProductOptions';
 import ProductImages from './ProductImages';
