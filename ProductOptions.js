@@ -1,5 +1,4 @@
-javascript
-CopyEdit
+
 import React from 'react';
 
 const ProductOptions = ({ options, onOptionChange }) => {
